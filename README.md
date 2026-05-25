@@ -11,7 +11,7 @@ Faux Tech Ltd requires a scalable and segmented enterprise network across multip
 
 ## Network Topology
 
-![Logical Network Topology](diagrams/logical-topology.png)
+![Logical Network Topology](Diagrams/logical-topology.png)
 
 ## Key Technologies Used
 
