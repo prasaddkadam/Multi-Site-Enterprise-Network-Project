@@ -61,12 +61,12 @@ Faux Tech Ltd requires a scalable and segmented enterprise network across multip
 ## Repository Structure
 
 ```text
-docs/             Project documentation
-diagrams/         Network topology diagrams
-packet-tracer/    Packet Tracer project files
-configs/          Router and switch configurations
-screenshots/      Testing and verification evidence
-troubleshooting/  Fault scenarios and resolutions
+Docs/             Project documentation
+Diagrams/         Network topology diagrams
+Packet-Tracer/    Packet Tracer project files
+Configs/          Router and switch configurations
+Screenshots/      Testing and verification evidence
+Troubleshooting/  Fault scenarios and resolutions
 ```
 
 ## Skills Demonstrated
