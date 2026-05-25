@@ -22,9 +22,9 @@ The deliverables for this phase are:
 Files for this phase:
 
 ```text
-docs/topology-ip-addressing-and-vlan-design.md
-diagrams/logical-topology.png
-diagrams/logical-topology.drawio
+Docs/topology-ip-addressing-and-vlan-design.md
+Diagrams/logical-topology.png
+Diagrams/logical-topology.drawio
 ```
 
 
@@ -50,7 +50,7 @@ Norwich and the Remote Office will connect back to the London site using point-t
 
 The logical topology will follow this structure:
 
-![Logical Network Topology](../diagrams/logical-topology.png)
+![Logical Network Topology](../Diagrams/logical-topology.png)
 
 
 An optional backup WAN link may be added between Norwich and the Remote Office later in the project.
